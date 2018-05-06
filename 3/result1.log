@@ -1,0 +1,1016 @@
+a new thread 948586240 is created
+in thread 948586240 start function
+a new thread 940193536 is created
+a new thread 931800832 is created
+in thread 940193536 start function
+a new thread 923408128 is created
+a new thread 915015424 is created
+a new thread 906622720 is created
+a new thread 898230016 is created
+a new thread 889837312 is created
+a new thread 881444608 is created
+a new thread 873051904 is created
+a new thread 864659200 is created
+a new thread 856266496 is created
+in thread 931800832 start function
+a new thread 847873792 is created
+fd 3 sending
+a new thread 839481088 is created
+a new thread 831088384 is created
+fd 4 sending
+a new thread 822695680 is created
+a new thread 814302976 is created
+fd 5 sending
+in thread 923408128 start function
+a new thread 805910272 is created
+a new thread 797517568 is created
+fd 6 sending
+a new thread 789124864 is created
+a new thread 780732160 is created
+fd 7 sending
+a new thread 772339456 is created
+a new thread 763946752 is created
+fd 8 sending
+fd 153 sending
+a new thread 755554048 is created
+fd 103 sending
+fd 9 sending
+a new thread 747161344 is created
+fd 154 sending
+a new thread 738768640 is created
+fd 10 sending
+fd 104 sending
+a new thread 730375936 is created
+fd 155 sending
+a new thread 721983232 is created
+fd 11 sending
+fd 105 sending
+a new thread 713590528 is created
+fd 156 sending
+a new thread 705197824 is created
+fd 12 sending
+fd 106 sending
+a new thread 696805120 is created
+fd 157 sending
+fd 13 sending
+a new thread 688412416 is created
+fd 107 sending
+a new thread 680019712 is created
+fd 17 sending
+fd 14 sending
+a new thread 671627008 is created
+fd 158 sending
+a new thread 663234304 is created
+fd 108 sending
+fd 15 sending
+a new thread 654841600 is created
+fd 20 sending
+a new thread 646448896 is created
+fd 159 sending
+fd 16 sending
+a new thread 638056192 is created
+fd 109 sending
+fd 18 sending
+a new thread 629663488 is created
+fd 21 sending
+fd 160 sending
+a new thread 621270784 is created
+in thread 621270784 start function
+in thread 805910272 start function
+fd 19 sending
+fd 110 sending
+fd 22 sending
+fd 23 sending
+fd 24 sending
+fd 161 sending
+in thread 797517568 start function
+in thread 789124864 start function
+fd 27 sending
+in thread 780732160 start function
+in thread 772339456 start function
+in thread 814302976 start function
+in thread 763946752 start function
+in thread 755554048 start function
+fd 111 sending
+in thread 915015424 start function
+in thread 747161344 start function
+fd 30 sending
+in thread 738768640 start function
+in thread 906622720 start function
+in thread 730375936 start function
+in thread 898230016 start function
+in thread 721983232 start function
+in thread 889837312 start function
+in thread 822695680 start function
+in thread 881444608 start function
+in thread 713590528 start function
+in thread 873051904 start function
+in thread 705197824 start function
+in thread 864659200 start function
+fd 25 sending
+in thread 696805120 start function
+fd 33 sending
+in thread 688412416 start function
+in thread 680019712 start function
+in thread 671627008 start function
+fd 36 sending
+fd 162 sending
+fd 38 sending
+fd 41 sending
+fd 43 sending
+fd 46 sending
+fd 48 sending
+fd 51 sending
+fd 53 sending
+fd 112 sending
+fd 56 sending
+fd 58 sending
+fd 26 sending
+fd 61 sending
+fd 64 sending
+fd 66 sending
+fd 69 sending
+fd 72 sending
+fd 74 sending
+fd 76 sending
+in thread 856266496 start function
+fd 79 sending
+fd 81 sending
+fd 84 sending
+fd 86 sending
+fd 89 sending
+fd 91 sending
+fd 94 sending
+fd 96 sending
+fd 99 sending
+fd 100 sending
+fd 101 sending
+fd 102 sending
+Wait on select
+select ret = 6
+receiving from fd 3
+retval=6 | Bytes recv = 6	| content = fname
+
+receiving from fd 4
+retval=6 | Bytes recv = 6	| content = fname
+
+receiving from fd 5
+retval=6 | Bytes recv = 6	| content = fname
+
+receiving from fd 6
+retval=6 | Bytes recv = 6	| content = fname
+
+receiving from fd 7
+retval=6 | Bytes recv = 6	| content = fname
+
+receiving from fd 8
+retval=6 | Bytes recv = 6	| content = fname
+
+Wait on select
+select ret = 6
+receiving from fd 3
+retval=6 | Bytes recv = -1	| content = 
+fd 28 sending
+in thread 847873792 start function
+in thread 839481088 start function
+in thread 831088384 start function
+in thread 663234304 start function
+fd 163 sending
+fd 29 sending
+fd 113 sending
+in thread 654841600 start function
+fd 114 sending
+in thread 646448896 start function
+fd 31 sending
+fd 164 sending
+fd 115 sending
+in thread 638056192 start function
+fd 32 sending
+fd 165 sending
+fd 116 sending
+fd 34 sending
+fd 166 sending
+in thread 629663488 start function
+fd 117 sending
+fd 35 sending
+fd 167 sending
+fd 118 sending
+fd 37 sending
+fd 168 sending
+fd 119 sending
+fd 39 sending
+fd 169 sending
+fd 120 sending
+fd 40 sending
+fd 170 sending
+fd 121 sending
+fd 42 sending
+fd 171 sending
+fd 122 sending
+fd 44 sending
+fd 172 sending
+fd 123 sending
+fd 45 sending
+fd 173 sending
+fd 124 sending
+fd 47 sending
+fd 174 sending
+fd 125 sending
+fd 49 sending
+fd 175 sending
+fd 126 sending
+fd 50 sending
+fd 176 sending
+fd 127 sending
+fd 52 sending
+fd 177 sending
+fd 128 sending
+fd 54 sending
+fd 178 sending
+fd 129 sending
+fd 55 sending
+fd 179 sending
+fd 130 sending
+fd 57 sending
+fd 180 sending
+fd 131 sending
+fd 59 sending
+fd 181 sending
+fd 132 sending
+fd 60 sending
+fd 182 sending
+fd 133 sending
+fd 62 sending
+fd 183 sending
+fd 134 sending
+fd 63 sending
+fd 184 sending
+fd 135 sending
+fd 65 sending
+fd 185 sending
+fd 136 sending
+fd 67 sending
+fd 186 sending
+fd 137 sending
+fd 68 sending
+fd 187 sending
+fd 138 sending
+fd 188 sending
+fd 70 sending
+fd 189 sending
+fd 71 sending
+fd 139 sending
+fd 73 sending
+fd 190 sending
+fd 140 sending
+fd 191 sending
+fd 75 sending
+fd 141 sending
+fd 77 sending
+fd 192 sending
+fd 142 sending
+fd 193 sending
+fd 78 sending
+fd 143 sending
+fd 194 sending
+fd 203 sending
+fd 205 sending
+fd 207 sending
+fd 257 sending
+fd 209 sending
+fd 261 sending
+fd 211 sending
+fd 263 sending
+fd 213 sending
+fd 267 sending
+fd 215 sending
+fd 269 sending
+fd 217 sending
+fd 219 sending
+fd 272 sending
+fd 221 sending
+fd 223 sending
+fd 275 sending
+fd 225 sending
+fd 227 sending
+fd 278 sending
+fd 229 sending
+fd 281 sending
+fd 231 sending
+fd 233 sending
+fd 284 sending
+fd 236 sending
+fd 238 sending
+fd 287 sending
+fd 240 sending
+fd 242 sending
+fd 290 sending
+fd opened : 3
+fd 244 sending
+fd 246 sending
+fd 293 sending
+fd 248 sending
+fd 250 sending
+fd 296 sending
+fd 252 sending
+fd 299 sending
+fd 254 sending
+fd 256 sending
+fd 300 sending
+fd 259 sending
+fd 262 sending
+reconnect Success
+fd 3 sending again
+fd 265 sending
+receiving from fd 4
+retval=6 | Bytes recv = -1	| content = 
+fd 268 sending
+fd 429 sending
+fd 271 sending
+fd 274 sending
+fd 277 sending
+fd 379 sending
+fd 280 sending
+fd 303 sending
+fd 283 sending
+fd 380 sending
+fd 306 sending
+fd 286 sending
+fd 430 sending
+fd 289 sending
+fd 381 sending
+fd 292 sending
+fd 295 sending
+fd 431 sending
+fd 298 sending
+fd 301 sending
+fd 382 sending
+fd 305 sending
+fd 432 sending
+fd 308 sending
+fd 311 sending
+fd 383 sending
+fd 314 sending
+fd 433 sending
+fd 316 sending
+fd 319 sending
+fd 384 sending
+fd 322 sending
+fd 325 sending
+fd 434 sending
+Wait on select
+fd 385 sending
+fd 435 sending
+fd 386 sending
+fd 436 sending
+fd 387 sending
+fd 437 sending
+fd 438 sending
+fd 388 sending
+fd 439 sending
+fd 389 sending
+fd 440 sending
+fd 390 sending
+fd 441 sending
+fd 391 sending
+fd 442 sending
+fd 443 sending
+fd 392 sending
+fd 444 sending
+fd 393 sending
+fd 309 sending
+fd 445 sending
+fd 394 sending
+fd 395 sending
+fd 312 sending
+fd 446 sending
+fd 315 sending
+fd 318 sending
+fd 396 sending
+fd 320 sending
+fd 447 sending
+fd 323 sending
+fd 326 sending
+fd 397 sending
+fd 328 sending
+fd 330 sending
+fd 448 sending
+fd 333 sending
+fd 398 sending
+fd 335 sending
+fd 337 sending
+fd 449 sending
+fd 339 sending
+fd 399 sending
+fd 341 sending
+fd 450 sending
+fd 343 sending
+fd 345 sending
+fd 346 sending
+fd 451 sending
+fd 400 sending
+fd 348 sending
+fd 350 sending
+fd 352 sending
+fd 401 sending
+fd 354 sending
+fd 452 sending
+fd 356 sending
+fd 357 sending
+fd 453 sending
+fd 359 sending
+fd 402 sending
+fd 361 sending
+fd 364 sending
+fd 366 sending
+fd 454 sending
+select ret = 18
+receiving from fd 203
+retval=18 | Bytes recv = 6	| content = fname
+
+receiving from fd 205
+retval=18 | Bytes recv = 6	| content = fname
+
+receiving from fd 207
+retval=18 | Bytes recv = 6	| content = fname
+
+receiving from fd 209
+retval=18 | Bytes recv = 6	| content = fname
+
+receiving from fd 211
+retval=18 | Bytes recv = 6	| content = fname
+
+receiving from fd 213
+retval=18 | Bytes recv = 6	| content = fname
+
+receiving from fd 215
+retval=18 | Bytes recv = 6	| content = fname
+
+receiving from fd 217
+retval=18 | Bytes recv = 6	| content = fname
+
+receiving from fd 219
+retval=18 | Bytes recv = 6	| content = fname
+
+receiving from fd 221
+retval=18 | Bytes recv = 6	| content = fname
+
+receiving from fd 223
+retval=18 | Bytes recv = 6	| content = fname
+
+receiving from fd 225
+retval=18 | Bytes recv = 6	| content = fname
+
+receiving from fd 227
+retval=18 | Bytes recv = 6	| content = fname
+
+receiving from fd 229
+retval=18 | Bytes recv = 6	| content = fname
+
+receiving from fd 231
+retval=18 | Bytes recv = 6	| content = fname
+
+receiving from fd 233
+retval=18 | Bytes recv = 6	| content = fname
+
+receiving from fd 236
+retval=18 | Bytes recv = 6	| content = fname
+
+receiving from fd 238
+retval=18 | Bytes recv = 6	| content = fname
+
+Wait on select
+select ret = 18
+receiving from fd 203
+retval=18 | Bytes recv = -1	| content = 
+fd opened : 203
+reconnect Success
+fd 203 sending again
+receiving from fd 205
+retval=18 | Bytes recv = -1	| content = 
+fd opened : 605
+reconnect Success
+fd 605 sending again
+receiving from fd 207
+retval=18 | Bytes recv = -1	| content = 
+fd opened : 651
+reconnect Success
+fd 651 sending again
+receiving from fd 209
+retval=18 | Bytes recv = -1	| content = 
+fd 513 sending
+fd opened : 666
+reconnect Success
+fd 666 sending again
+fd 517 sending
+receiving from fd 211
+retval=18 | Bytes recv = -1	| content = 
+fd opened : 685
+reconnect Success
+fd 685 sending again
+fd 518 sending
+receiving from fd 213
+retval=18 | Bytes recv = -1	| content = 
+fd opened : 700
+fd 519 sending
+reconnect Success
+fd 700 sending again
+receiving from fd 215
+retval=18 | Bytes recv = -1	| content = 
+fd 520 sending
+fd opened : 715
+reconnect Success
+fd 715 sending again
+fd 521 sending
+fd opened : 4
+receiving from fd 217
+retval=18 | Bytes recv = -1	| content = 
+fd opened : 728
+reconnect Success
+fd 4 sending again
+fd 523 sending
+reconnect Success
+fd 728 sending again
+receiving from fd 5
+retval=6 | Bytes recv = -1	| content = 
+receiving from fd 219
+retval=18 | Bytes recv = -1	| content = 
+fd opened : 219
+fd opened : 744
+fd 525 sending
+reconnect Success
+fd 219 sending again
+receiving from fd 221
+reconnect Success
+fd 744 sending again
+retval=18 | Bytes recv = -1	| content = 
+fd 526 sending
+fd opened : 761
+receiving from fd 6
+retval=6 | Bytes recv = -1	| content = 
+fd opened : 6
+reconnect Success
+fd 761 sending again
+fd 528 sending
+receiving from fd 223
+retval=18 | Bytes recv = -1	| content = 
+fd 522 sending
+fd opened : 765
+fd 530 sending
+reconnect Success
+fd 765 sending again
+reconnect Success
+fd 6 sending again
+receiving from fd 225
+retval=18 | Bytes recv = -1	| content = 
+receiving from fd 7
+retval=6 | Bytes recv = -1	| content = 
+fd 533 sending
+fd opened : 7
+fd opened : 786
+reconnect Success
+fd 7 sending again
+receiving from fd 227
+fd 535 sending
+retval=18 | Bytes recv = -1	| content = 
+fd 665 sending
+fd opened : 798
+reconnect Success
+fd 798 sending again
+fd 537 sending
+fd 524 sending
+receiving from fd 229
+retval=18 | Bytes recv = -1	| content = 
+fd opened : 814
+fd 539 sending
+reconnect Success
+fd 786 sending again
+reconnect Success
+fd 814 sending again
+receiving from fd 8
+retval=6 | Bytes recv = -1	| content = 
+receiving from fd 231
+retval=18 | Bytes recv = -1	| content = 
+fd opened : 231
+fd opened : 819
+fd 541 sending
+fd 209 sending
+reconnect Success
+fd 819 sending again
+receiving from fd 233
+fd 543 sending
+retval=18 | Bytes recv = -1	| content = 
+fd opened : 837
+fd 527 sending
+reconnect Success
+fd 837 sending again
+fd 546 sending
+receiving from fd 236
+retval=18 | Bytes recv = -1	| content = 
+fd opened : 852
+fd 667 sending
+fd 548 sending
+reconnect Success
+fd 852 sending again
+receiving from fd 238
+retval=18 | Bytes recv = -1	| content = 
+fd 529 sending
+fd opened : 238
+fd 550 sending
+reconnect Success
+fd 238 sending again
+Wait on select
+select ret = 32
+receiving from fd 240
+retval=32 | Bytes recv = 6	| content = fname
+
+receiving from fd 242
+retval=32 | Bytes recv = 6	| content = fname
+
+receiving from fd 244
+retval=32 | Bytes recv = 6	| content = fname
+
+receiving from fd 246
+retval=32 | Bytes recv = 6	| content = fname
+
+receiving from fd 248
+retval=32 | Bytes recv = 6	| content = fname
+
+receiving from fd 250
+retval=32 | Bytes recv = 6	| content = fname
+
+receiving from fd 252
+retval=32 | Bytes recv = 6	| content = fname
+
+receiving from fd 254
+retval=32 | Bytes recv = 6	| content = fname
+
+receiving from fd 256
+retval=32 | Bytes recv = 6	| content = fname
+
+receiving from fd 259
+retval=32 | Bytes recv = 6	| content = fname
+
+receiving from fd 262
+retval=32 | Bytes recv = 6	| content = fname
+
+receiving from fd 265
+retval=32 | Bytes recv = 6	| content = fname
+
+receiving from fd 268
+retval=32 | Bytes recv = 6	| content = fname
+
+receiving from fd 271
+retval=32 | Bytes recv = 6	| content = fname
+
+receiving from fd 274
+retval=32 | Bytes recv = 6	| content = fname
+
+receiving from fd 277
+retval=32 | Bytes recv = 6	| content = fname
+
+receiving from fd 280
+retval=32 | Bytes recv = 6	| content = fname
+
+receiving from fd 283
+retval=32 | Bytes recv = 6	| content = fname
+
+receiving from fd 286
+retval=32 | Bytes recv = 6	| content = fname
+
+receiving from fd 289
+retval=32 | Bytes recv = 6	| content = fname
+
+receiving from fd 292
+retval=32 | Bytes recv = 6	| content = fname
+
+receiving from fd 295
+retval=32 | Bytes recv = 6	| content = fname
+
+receiving from fd 298
+retval=32 | Bytes recv = 6	| content = fname
+
+receiving from fd 301
+retval=32 | Bytes recv = 6	| content = fname
+
+receiving from fd 305
+retval=32 | Bytes recv = 6	| content = fname
+
+receiving from fd 308
+retval=32 | Bytes recv = 6	| content = fname
+
+receiving from fd 311
+retval=32 | Bytes recv = 6	| content = fname
+
+receiving from fd 314
+retval=32 | Bytes recv = 6	| content = fname
+
+receiving from fd 316
+retval=32 | Bytes recv = 6	| content = fname
+
+receiving from fd 319
+retval=32 | Bytes recv = 6	| content = fname
+
+receiving from fd 322
+retval=32 | Bytes recv = 6	| content = fname
+
+receiving from fd 325
+retval=32 | Bytes recv = 6	| content = fname
+
+Wait on select
+select ret = 34
+receiving from fd 203
+retval=34 | Bytes recv = 6	| content = fname
+
+receiving from fd 605
+retval=34 | Bytes recv = 6	| content = fname
+
+receiving from fd 240
+retval=34 | Bytes recv = -1	| content = 
+fd opened : 934
+reconnect Success
+fd 934 sending again
+receiving from fd 242
+retval=34 | Bytes recv = -1	| content = 
+fd opened : 952
+reconnect Success
+fd 952 sending again
+receiving from fd 244
+retval=34 | Bytes recv = -1	| content = 
+fd opened : 244
+reconnect Success
+fd 244 sending again
+receiving from fd 246
+retval=34 | Bytes recv = -1	| content = 
+fd opened : 973
+reconnect Success
+fd 973 sending again
+receiving from fd 248
+retval=34 | Bytes recv = -1	| content = 
+fd opened : 989
+reconnect Success
+fd 989 sending again
+receiving from fd 250
+retval=34 | Bytes recv = -1	| content = 
+fd opened : 1004
+fd 714 sending
+reconnect Success
+fd 1004 sending again
+receiving from fd 252
+retval=34 | Bytes recv = -1	| content = 
+fd opened : 252
+fd 223 sending
+fd 865 sending
+reconnect Success
+fd 252 sending again
+receiving from fd 254
+retval=34 | Bytes recv = -1	| content = 
+fd 716 sending
+fd opened : 254
+fd 766 sending
+fd 815 sending
+reconnect Success
+fd 254 sending again
+fd 717 sending
+receiving from fd 256
+retval=34 | Bytes recv = -1	| content = 
+fd 767 sending
+fd opened : 256
+fd 966 sending
+fd 718 sending
+reconnect Success
+fd 256 sending again
+fd 768 sending
+fd 916 sending
+receiving from fd 259
+retval=34 | Bytes recv = -1	| content = 
+fd 719 sending
+fd opened : 259
+fd 769 sending
+fd 8 sending
+reconnect Success
+fd 259 sending again
+fd 720 sending
+receiving from fd 262
+retval=34 | Bytes recv = -1	| content = 
+fd opened : 262
+fd 770 sending
+fd 967 sending
+fd 721 sending
+reconnect Success
+fd 262 sending again
+receiving from fd 265
+retval=34 | Bytes recv = -1	| content = 
+fd 771 sending
+fd 866 sending
+fd opened : 265
+fd 722 sending
+fd 917 sending
+reconnect Success
+fd 231 sending again
+Wait on select
+fd 772 sending
+select ret = 45
+fd 816 sending
+reconnect Success
+fd 265 sending again
+receiving from fd 268
+retval=34 | Bytes recv = -1	| content = 
+fd 515 sending
+fd opened : 268
+fd 867 sending
+reconnect Success
+fd 268 sending again
+receiving from fd 271
+fd 968 sending
+retval=34 | Bytes recv = -1	| content = 
+fd 773 sending
+fd opened : 271
+fd 918 sending
+reconnect Success
+fd 271 sending again
+receiving from fd 274
+retval=34 | Bytes recv = -1	| content = 
+fd 532 sending
+fd opened : 274
+fd 817 sending
+reconnect Success
+fd 274 sending again
+receiving from fd 277
+retval=34 | Bytes recv = -1	| content = 
+fd 723 sending
+fd opened : 277
+fd 868 sending
+fd 774 sending
+reconnect Success
+fd 277 sending again
+fd 553 sending
+fd 919 sending
+receiving from fd 280
+retval=34 | Bytes recv = -1	| content = 
+fd opened : 280
+fd 969 sending
+reconnect Success
+fd 280 sending again
+receiving from fd 283
+retval=34 | Bytes recv = -1	| content = 
+fd opened : 283
+fd 818 sending
+reconnect Success
+fd 283 sending again
+receiving from fd 286
+retval=34 | Bytes recv = -1	| content = 
+fd opened : 286
+fd 775 sending
+fd 970 sending
+reconnect Success
+fd 286 sending again
+receiving from fd 289
+retval=34 | Bytes recv = -1	| content = 
+fd 869 sending
+fd opened : 289
+fd 724 sending
+reconnect Success
+fd 289 sending again
+fd 920 sending
+receiving from fd 292
+retval=34 | Bytes recv = -1	| content = 
+fd opened : 292
+fd 820 sending
+fd 562 sending
+reconnect Success
+fd 292 sending again
+receiving from fd 295
+retval=34 | Bytes recv = -1	| content = 
+fd opened : 295
+fd 870 sending
+reconnect Success
+fd 295 sending again
+fd 776 sending
+receiving from fd 298
+fd 921 sending
+retval=34 | Bytes recv = -1	| content = 
+fd opened : 298
+reconnect Success
+fd 298 sending again
+fd 971 sending
+receiving from fd 301
+retval=34 | Bytes recv = -1	| content = 
+fd 725 sending
+fd opened : 301
+fd 821 sending
+reconnect Success
+fd 301 sending again
+receiving from fd 305
+retval=34 | Bytes recv = -1	| content = 
+fd 564 sending
+fd 872 sending
+fd opened : 305
+reconnect Success
+fd 305 sending again
+fd 972 sending
+receiving from fd 308
+retval=34 | Bytes recv = -1	| content = 
+fd 777 sending
+fd opened : 308
+fd 922 sending
+reconnect Success
+fd 308 sending again
+receiving from fd 311
+retval=34 | Bytes recv = -1	| content = 
+fd opened : 311
+fd 217 sending
+fd 822 sending
+fd 565 sending
+reconnect Success
+fd 311 sending again
+receiving from fd 314
+retval=34 | Bytes recv = -1	| content = 
+fd 873 sending
+fd opened : 314
+fd 246 sending
+receiving from fd 3
+fd 778 sending
+retval=45 | Bytes recv = 6	| content = fname
+
+receiving from fd 9
+retval=45 | Bytes recv = 6	| content = fname
+
+receiving from fd 10
+retval=45 | Bytes recv = 6	| content = fname
+
+receiving from fd 11
+retval=45 | Bytes recv = 6	| content = fname
+
+receiving from fd 12
+retval=45 | Bytes recv = 6	| content = fname
+
+receiving from fd 13
+retval=45 | Bytes recv = 6	| content = fname
+
+receiving from fd 14
+retval=45 | Bytes recv = 6	| content = fname
+
+receiving from fd 15
+retval=45 | Bytes recv = 6	| content = fname
+
+receiving from fd 16
+retval=45 | Bytes recv = 6	| content = fname
+
+receiving from fd 18
+retval=45 | Bytes recv = 6	| content = fname
+
+receiving from fd 19
+retval=45 | Bytes recv = 6	| content = fname
+
+receiving from fd 22
+fd 923 sending
+retval=45 | Bytes recv = 6	| content = fname
+
+receiving from fd 24
+retval=45 | Bytes recv = 6	| content = fname
+
+receiving from fd 27
+retval=45 | Bytes recv = 6	| content = fname
+
+receiving from fd 30
+retval=45 | Bytes recv = 6	| content = fname
+
+receiving from fd 33
+retval=45 | Bytes recv = 6	| content = fname
+
+receiving from fd 36
+retval=45 | Bytes recv = 6	| content = fname
+
+receiving from fd 38
+retval=45 | Bytes recv = 6	| content = fname
+
+receiving from fd 41
+fd 823 sending
+retval=45 | Bytes recv = 6	| content = fname
+
+receiving from fd 43
+retval=45 | Bytes recv = 6	| content = fname
+
+receiving from fd 46
+retval=45 | Bytes recv = 6	| content = fname
+
+receiving from fd 48
+retval=45 | Bytes recv = 6	| content = fname
+
+receiving from fd 51
+failed to alloc socket
+fd 974 sending
+d 51
+failed to alloc socket
+fd 974 sending
+failed to alloc socket
+fd 824 sending
+fd 975 sending
+fd 825 sending
+fd 826 sending
+failed to alloc socket
+d 51
+failed to alloc socket
+fd 974 sending
+failed to alloc socket
